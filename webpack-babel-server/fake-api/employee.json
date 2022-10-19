@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Kazım Burak Cengiz",
+      "department": "Bilişim",
+      "salary": 5000,
+      "id": 1
+    },
+    {
+      "name": "Haydar Yiğit Akçakoca",
+      "department": "Bilişim",
+      "salary": 3000,
+      "id": 2
+    },
+    {
+      "name": "Haydar Yiğit Akçakoca",
+      "department": "Bilişim",
+      "salary": 3000,
+      "id": 3
+    }
+  ]
+}
